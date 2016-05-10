@@ -1,0 +1,10 @@
+Add gridlines plot
+Add legend showing the meaning of colours
+
+
+elif statement for plot by week in prm.py
+elif statement for plot by day in prm.py
+
+LATER KORAA...
+Render in other plot types where possible
+Autochange line colour to red when threshold(danger zones) is reached
